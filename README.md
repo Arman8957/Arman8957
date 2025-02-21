@@ -10,10 +10,8 @@
 - 🔭 I’m currently working on **Blaze Digital**
 
 - 💬 Ask me about Web application**React.js Next.js Node.js Nestjs  AWS**
-- 💬 Ask me about for Android**Flutter GetX Dio**
-
+- 💬 Ask me about for Android**Flutter GetX Dio*
 - 📫 How to reach me **mdarmanya.h@gmail.com**
-
 - ⚡ Fun fact **I am turtle coder& passionate**
 
 <h3 align="left">Connect with me:</h3>
