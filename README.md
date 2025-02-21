@@ -7,13 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arman8957&label=Profile%20views&color=0e75b6&style=flat" alt="arman8957" /> </p>
 
-- 🔭 I’m currently working on **Supervisor Solutions**
+- 🔭 I’m currently working on **Blaze Digital**
 
-- 💬 Ask me about **React.js Next.js Django Node.js AWS**
+- 💬 Ask me about Web application**React.js Next.js Node.js Nestjs  AWS**
+- 💬 Ask me about for Android**Flutter GetX Dio**
 
 - 📫 How to reach me **mdarmanya.h@gmail.com**
 
-- ⚡ Fun fact **I am turtle coder**
+- ⚡ Fun fact **I am turtle coder& passionate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
