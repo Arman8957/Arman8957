@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Arman</h1>
 
-<h3 align="center"> AI Researcher & Full-Stack Developer</h3>
+<h3 align="center">A passionate AI Researcher & Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arman8957&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -13,7 +13,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working at **Blaze Digital**
-- 💬 Ask me about: **React.js, Next.js, Node.js, NestJS, Flutter, AI/ML**
+- 🌱 Currently exploring **Generative AI, LLMs & Computer Vision**
+- 💬 Ask me about: **AI/ML, React, Next.js, Node.js, NestJS, Flutter**
 - 📫 Reach me at: **mdarmanya.h@gmail.com**
 - ⚡ Fun fact: **I'm a "Turtle Coder" — slow but steady, always improving**
 
@@ -57,10 +58,26 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/scikitlearn/scikitlearn-icon.svg" alt="Scikit-learn" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="42" height="42"/>
 </p>
 
 #### Mobile
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="42" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="42" height="42"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arman8957&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman8957&theme=radical&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arman8957&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
